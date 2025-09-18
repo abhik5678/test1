@@ -1,1 +1,3 @@
-zxcvbgfdss
+class B {
+	int x = 10;
+}
